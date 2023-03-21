@@ -1,0 +1,44 @@
+body {
+    background-color: tan;
+
+}
+
+#KoekwousText1 {
+
+    color: black;
+    font-family: monospace;
+
+}
+#FotoOnsPap {
+
+    border-style: dotted;
+    left: 3%
+}
+#TopText1 {
+    
+    color: black;
+    font-family: fantasy;
+    text-align: center;
+    border-style: double;
+    padding: 3%;
+
+}
+#TopText2 {
+
+    color: rgb(61, 18, 18);
+
+}
+#MidText{
+
+    color: rgb(42, 75, 42);
+
+
+}
+#fotoverrektekoekwous{
+
+    position: absolute;
+    top: 67%;
+    right: 3%;
+    border: 3px solid #73AD21;
+    
+}
